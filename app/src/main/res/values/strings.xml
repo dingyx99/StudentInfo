@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudentInfo</string>
+    <string name="classLabel">"Class: "</string>
+    <string name="classHint">CS1801</string>
+    <string name="idLabel">"ID: "</string>
+    <string name="idHint" translatable="false">2018010001</string>
+    <string name="nameLabel">"Name: "</string>
+    <string name="nameHint">John Doe</string>
+    <string name="addButton">Add</string>
+    <string name="menuDelete">Delete</string>
+</resources>

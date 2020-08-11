@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">学生信息</string>
+    <string name="classLabel">班级：</string>
+    <string name="classHint">计算机1801</string>
+    <string name="idLabel">学号：</string>
+    <string name="nameLabel">姓名：</string>
+    <string name="nameHint">李明</string>
+    <string name="addButton">添加</string>
+    <string name="menuDelete">删除</string>
+</resources>
